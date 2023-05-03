@@ -1,0 +1,110 @@
+Total sample Count is -> 10000000000
+
+Starting iteration -> 0
+
+Thread -> 0 , samplePoll -> 1250000000 
+Thread -> 1 , samplePoll -> 1250000000 
+Thread -> 3 , samplePoll -> 1250000000 
+Thread -> 6 , samplePoll -> 1250000000 
+Thread -> 7 , samplePoll -> 1250000000 
+Thread -> 5 , samplePoll -> 1250000000 
+Thread -> 4 , samplePoll -> 1250000000 
+Thread -> 2 , samplePoll -> 1250000000 
+Point inside target found by thread ->  3 is 499997852 
+Point inside target found by thread ->  7 is 500003616 
+Point inside target found by thread ->  2 is 500007321 
+Point inside target found by thread ->  4 is 499998050 
+Point inside target found by thread ->  6 is 500001712 
+Point inside target found by thread ->  0 is 499997733 
+Point inside target found by thread ->  5 is 500003453 
+Point inside target found by thread ->  1 is 500007769 
+The estimated area is 4000.02 unitSquare with samples 10000000000 where 4000017506 points were found inside target curve
+Execution Time -> 44.7489 Seconds, for iteration -> 0
+
+Starting iteration -> 1
+
+Thread -> 0 , samplePoll -> 1250000000 
+Thread -> 1 , samplePoll -> 1250000000 
+Thread -> 2 , samplePoll -> 1250000000 
+Thread -> 4 , samplePoll -> 1250000000 
+Thread -> 6 , samplePoll -> 1250000000 
+Thread -> 5 , samplePoll -> 1250000000 
+Thread -> 3 , samplePoll -> 1250000000 
+Thread -> 7 , samplePoll -> 1250000000 
+Point inside target found by thread ->  4 is 500012679 
+Point inside target found by thread ->  7 is 500003209 
+Point inside target found by thread ->  5 is 500003243 
+Point inside target found by thread ->  6 is 499993661 
+Point inside target found by thread ->  3 is 500013814 
+Point inside target found by thread ->  1 is 500002130 
+Point inside target found by thread ->  2 is 499992881 
+Point inside target found by thread ->  0 is 499998771 
+The estimated area is 4000.02 unitSquare with samples 10000000000 where 4000020388 points were found inside target curve
+Execution Time -> 43.233 Seconds, for iteration -> 1
+
+Starting iteration -> 2
+
+Thread -> 0 , samplePoll -> 1250000000 
+Thread -> 1 , samplePoll -> 1250000000 
+Thread -> 3 , samplePoll -> 1250000000 
+Thread -> 2 , samplePoll -> 1250000000 
+Thread -> 4 , samplePoll -> 1250000000 
+Thread -> 7 , samplePoll -> 1250000000 
+Thread -> 6 , samplePoll -> 1250000000 
+Thread -> 5 , samplePoll -> 1250000000 
+Point inside target found by thread ->  0 is 500001571 
+Point inside target found by thread ->  2 is 500009671 
+Point inside target found by thread ->  7 is 500007809 
+Point inside target found by thread ->  3 is 499997962 
+Point inside target found by thread ->  1 is 499999653 
+Point inside target found by thread ->  5 is 499998613 
+Point inside target found by thread ->  6 is 500000368 
+Point inside target found by thread ->  4 is 499998916 
+The estimated area is 4000.01 unitSquare with samples 10000000000 where 4000014563 points were found inside target curve
+Execution Time -> 43.2285 Seconds, for iteration -> 2
+
+Starting iteration -> 3
+
+Thread -> 0 , samplePoll -> 1250000000 
+Thread -> 3 , samplePoll -> 1250000000 
+Thread -> 1 , samplePoll -> 1250000000 
+Thread -> 2 , samplePoll -> 1250000000 
+Thread -> 4 , samplePoll -> 1250000000 
+Thread -> 6 , samplePoll -> 1250000000 
+Thread -> 7 , samplePoll -> 1250000000 
+Thread -> 5 , samplePoll -> 1250000000 
+Point inside target found by thread ->  2 is 499999135 
+Point inside target found by thread ->  6 is 499998252 
+Point inside target found by thread ->  3 is 500009032 
+Point inside target found by thread ->  0 is 500003895 
+Point inside target found by thread ->  5 is 499999830 
+Point inside target found by thread ->  1 is 499997716 
+Point inside target found by thread ->  4 is 500004444 
+Point inside target found by thread ->  7 is 500007793 
+The estimated area is 4000.02 unitSquare with samples 10000000000 where 4000020097 points were found inside target curve
+Execution Time -> 43.5959 Seconds, for iteration -> 3
+
+Starting iteration -> 4
+
+Thread -> 0 , samplePoll -> 1250000000 
+Thread -> 1 , samplePoll -> 1250000000 
+Thread -> 2 , samplePoll -> 1250000000 
+Thread -> 3 , samplePoll -> 1250000000 
+Thread -> 7 , samplePoll -> 1250000000 
+Thread -> 4 , samplePoll -> 1250000000 
+Thread -> 5 , samplePoll -> 1250000000 
+Thread -> 6 , samplePoll -> 1250000000 
+Point inside target found by thread ->  7 is 499997580 
+Point inside target found by thread ->  1 is 499999311 
+Point inside target found by thread ->  2 is 500006390 
+Point inside target found by thread ->  3 is 500003726 
+Point inside target found by thread ->  0 is 499998916 
+Point inside target found by thread ->  5 is 500013348 
+Point inside target found by thread ->  4 is 500002226 
+Point inside target found by thread ->  6 is 500001874 
+The estimated area is 4000.02 unitSquare with samples 10000000000 where 4000023371 points were found inside target curve
+Execution Time -> 43.2964 Seconds, for iteration -> 4
+
+
+
+Average time taken to estimate area of the curve for 5 iterations is: 43.620540 seconds

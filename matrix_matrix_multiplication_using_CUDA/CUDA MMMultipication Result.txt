@@ -1,0 +1,7 @@
+After running the program we get the following output:
+
+OUTPUT OF THE PROGRAM:
+
+Assigning default value dim = 4096 and blockSize = 16
+Calculated the matrix successfully...
+elapsed time: 3.82969s

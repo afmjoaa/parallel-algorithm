@@ -1,0 +1,63 @@
+SampleCount is: 10000000000
+Thread 0 : says hello
+Thread 1 : says hello
+Thread 2 : says hello
+Thread 4 : says hello
+Thread 5 : says hello
+Thread 6 : says hello
+Thread 7 : says hello
+Thread 3 : says hello
+total points inside: 3999992541
+The area estimate with 10000000000 samples is: 3999.99
+Execution Time: 328.479 Seconds, for iteration -> 0
+
+Thread 0 : says hello
+Thread 1 : says hello
+Thread 6 : says hello
+Thread 2 : says hello
+Thread 5 : says hello
+Thread 3 : says hello
+Thread 7 : says hello
+Thread 4 : says hello
+total points inside: 3999992541
+The area estimate with 10000000000 samples is: 3999.99
+Execution Time: 331.089 Seconds, for iteration -> 1
+
+Thread 0 : says hello
+Thread 3 : says hello
+Thread 2 : says hello
+Thread 4 : says hello
+Thread 1 : says hello
+Thread 6 : says hello
+Thread 5 : says hello
+Thread 7 : says hello
+total points inside: 3999992541
+The area estimate with 10000000000 samples is: 3999.99
+Execution Time: 327.66 Seconds, for iteration -> 2
+
+Thread 0 : says hello
+Thread 1 : says hello
+Thread 2 : says hello
+Thread 3 : says hello
+Thread 4 : says hello
+Thread 5 : says hello
+Thread 6 : says hello
+Thread 7 : says hello
+total points inside: 3999992541
+The area estimate with 10000000000 samples is: 3999.99
+Execution Time: 326.72 Seconds, for iteration -> 3
+
+Thread 0 : says hello
+Thread 1 : says hello
+Thread 4 : says hello
+Thread 3 : says hello
+Thread 6 : says hello
+Thread 7 : says hello
+Thread 5 : says hello
+Thread 2 : says hello
+total points inside: 3999992541
+The area estimate with 10000000000 samples is: 3999.99
+Execution Time: 326.687 Seconds, for iteration -> 4
+
+
+Average time taken to estimate area of the curve for 5 iterations is: 328.127144 seconds

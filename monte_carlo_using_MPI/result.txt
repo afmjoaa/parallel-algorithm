@@ -1,0 +1,28 @@
+Sample count 1000000000 iteration count -> 5
+
+Proc rank  -> 0  reducedSumOfInsidePoints -> 400002058
+The estimated area is -> 4000.020580 unitSquare 
+Average time taken for one iteration is -> 4.437962 seconds
+4.437962
+
+Proc rank  -> 0  reducedSumOfInsidePoints -> 400002058
+The estimated area is -> 4000.020580 unitSquare 
+Average time taken for one iteration is -> 4.439081 seconds
+4.439081
+
+Proc rank  -> 0  reducedSumOfInsidePoints -> 400002058
+The estimated area is -> 4000.020580 unitSquare 
+Average time taken for one iteration is -> 4.462516 seconds
+4.462516
+
+Proc rank  -> 0  reducedSumOfInsidePoints -> 400002058
+The estimated area is -> 4000.020580 unitSquare 
+Average time taken for one iteration is -> 4.439504 seconds
+4.439504
+
+Proc rank  -> 0  reducedSumOfInsidePoints -> 400002058
+The estimated area is -> 4000.020580 unitSquare 
+Average time taken for one iteration is -> 4.492463 seconds
+4.492463
+
+Average runtime for the MPI program for 5 iteration is -> 4.4543052
